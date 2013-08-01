@@ -1,0 +1,14 @@
+.dash .widget .sa_thead td {
+	border-top: 0;
+}
+
+.sa_thead {
+	background-color: rgb(252, 252, 252);
+	text-align: left;
+	color: #8F8F8F;
+}
+
+.sa_left, .sa_right {
+	float: left;
+	width: 50%;
+}
